@@ -1,0 +1,6 @@
+[
+  {"id": 0, "name":"Choose your drink","description":"", "price": 0},
+  {"id": 1, "name":"Cappuccino","description":"A cappuccino is an espresso-based coffee drink that originated in Austria with later development taking place in Italy.", "price": 1.5},
+  {"id": 2, "name":"Latte","description":"Late is a coffee drink of Italian origin made with espresso and steamed milk. ", "price": 2},
+  {"id": 3, "name":"Flat white","description":"A flat white is a coffee drink consisting of espresso with microfoam (steamed milk with small, fine bubbles and a glossy or velvety consistency).", "price": 2.5}
+]
